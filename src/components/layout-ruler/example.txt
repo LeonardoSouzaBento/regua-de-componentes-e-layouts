@@ -1,0 +1,1 @@
+Arquivo de exemplo para garantir que a pasta layout-ruler seja versionada.
